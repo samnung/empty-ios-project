@@ -1,0 +1,16 @@
+{
+	"output_dir": "release",
+
+    "download_url_template": "http://www.example.com/empty${type}/${app_name}-${version}-${build_version}/empty.ipa",
+
+     "configurations": {
+        "Release": {
+            "type": "",
+            "short_name": "PROD"
+        },
+        "Debug": {
+            "type": "-debug",
+            "short_name": "DEBUG"
+        }
+    }
+}
