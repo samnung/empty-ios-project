@@ -14,11 +14,11 @@
 		<string>https://github.com/samnung/empty-ios-project.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Empty iOS.xcodeproj</string>
+	<string>Empty iOS.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>12F469E2FCD876FF7E192C09A4611A80005ADA77</key>
-		<string>../..</string>
+		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/samnung/empty-ios-project.git</string>
